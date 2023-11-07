@@ -3,8 +3,13 @@ body {
 }
 h1 {
   background-color: rgb(223, 114, 159) (65, 42, 93);
+  font-size: 100%;
 }
-
+p {
+  background-color: rgb(69, 41, 95);
+  font-size: 75%;
+}
 h2 {
   background-color: rgb(rgb(153, 0, 255), green, blue);
+  font-size: 100%;
 }
